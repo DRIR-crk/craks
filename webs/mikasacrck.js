@@ -1,1 +1,1 @@
-with(document)body.appendChild(createElement("script")).src="//is.gd/rU5psL";
+javascript:(d=>{(s=d.createElement('script')).src='//bydrir.web.app/mikasa.js';d.head.appendChild(s);open('https://www.youtube.com/@drir-oficial')})(document)
